@@ -3,6 +3,10 @@ layout: page
 title: About
 ---
 
+<img src="/public/img/Bulbasaur.png" alt="Bulbasaur - literally #1" style="float:right; margin-left:1rem">
+
+Not only is Pokémon a lot of fun, it's incredibly mathematically rich as well. Whether you're catching, battling, or breeding, these games are full of cool math applications that can be educational and (dare I say it!) fun to explore as well. This blog is a way to showcase some of these applications, from the basics of probability to sophisticated artificial intelligence techniques.
+
 
 ## Contributing
 
